@@ -1,8 +1,8 @@
-### clysms/clysmith
-- 👋 Hi, I'm clysms or clysmith, I'm a 13 year old who programs in Lua and CSS whenever I want.
+### Ryugenn
+- 👋 Hi, I'm ryugenn, I'm a 13 year old who programs Discord snippets using CSS.
 - 🔭 My current project is [DiscordSnips/DiscordSnippets](https://github.com/DiscordSnips)
-- ⚡ Facts about me: I like programming (obviously), specifically Roblox scripts and snippets for Discord. I like entertaining myself by watching TV specifically anime, and doing other things with my time.
-- 📫 Need to contact me? [@clysms](https://twitter.com/clysms) or clysmith#3571
+- ⚡ Facts about me: I like programming (obviously, entertaining myself by watching TV, anime, or Youtube and doing other things with my time.
+- 📫 Need to contact me? [@clysms](https://twitter.com/clysms) or ryugenn#3571
 <!--
 
 
