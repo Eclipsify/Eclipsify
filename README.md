@@ -1,19 +1,18 @@
-# ![image](https://user-images.githubusercontent.com/72931279/114954863-6d53fa80-9e29-11eb-8ca3-fd479e41b431.png)
-
-# 🗣️ \<Languages>:
-- `CSS`
-- `Lua (partially)`
-
-# 🛠️ \<Projects>:
-   - [Hydrite](https://github.com/xvicord/hydrite)
-
-![image](https://user-images.githubusercontent.com/72931279/114631134-0cda8700-9c8a-11eb-8165-e1642d1f29c2.png)
-- "AlexFlipnote"
+---------------------------------------------------------------------------------------------------------------
+```ruby
+^ XVIRyon
++ united states.
+- 13 years old.
+! programmer and theme developer.
+%  css and lua lover.
+* and yes i did copy jew's README.md (go check it out though, https://github.com/jewdev/jewdev).
+```
 
 <!--
 ![image](https://media.discordapp.net/attachments/821426277709774881/828083264178487346/github.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828086206969020486/twitter.png) | ![image](https://media.discordapp.net/attachments/821426277709774881/828100070868123698/discord.png) |
 ------------ | ------------ | ------------
 [GitHub](https://github.com/vampclipse) | [Twitter](https://twitter.com/vampclipse) | [Discord Community](https://discord.gg/5hqReEDFJp)
+![image](https://user-images.githubusercontent.com/72931279/114631134-0cda8700-9c8a-11eb-8165-e1642d1f29c2.png)
 
 Here are some ideas to get you started:
 
@@ -26,3 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
+
+
+=
